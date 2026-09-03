@@ -1,155 +1,171 @@
 <div align="center">
 
-# Hi there, I'm Shanjida Nahar Sumona 👋
+# Hi 👋, I'm Shanjida Nahar Sumona
 
-### Computer Science Student | AI & Machine Learning Enthusiast | Researcher
+### Full-Stack Developer | Computer Science Graduate | Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Exploring+AI%2C+Machine+Learning+%26+Deep+Learning;Building+projects+with+Python+and+Cloud+Technologies;Turning+research+ideas+into+real-world+solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;Frontend+%26+Backend+Development;Learning+Software+Engineering;Turning+Ideas+Into+Digital+Solutions" />
+
+<p>
+
+<a href="https://www.linkedin.com/in/shanjida-nahar-sumona">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shanjida2121@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Shanjida-Nahar">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Shanjida-Nahar&label=Profile%20Views&style=flat-square"/>
 
 </div>
 
----
-
-## 👩‍💻 About Me
-
-I'm a **Computer Science student at Asian University for Women** with a strong interest in **Artificial Intelligence, Machine Learning, Deep Learning, and research**.
-
-🔬 My research focuses on applying **deep learning to medical image analysis**, particularly cancer detection from histopathological images.
-
-🌱 I enjoy learning by building—from machine learning models and data analysis projects to cloud-based applications.
-
-☁️ I am also interested in **Cloud Computing, Docker, Git, and building practical AI-powered solutions**.
-
-🎯 Currently exploring ways to strengthen my skills through **hands-on projects, research, and open-source learning**.
-
-💬 Ask me about **Python, Machine Learning, Deep Learning, Data Structures & Algorithms, or AI research**.
 
 ---
 
-## 🔭 What I'm Currently Working On
+# 👩‍💻 About Me
 
-* 🧠 **Deep Learning for Medical Image Analysis**
-* 🔬 Research on **Colorectal and Breast Cancer Detection**
-* 📊 Exploring **Attention Mechanisms, CBAM, Transfer Learning & Grad-CAM**
-* ☁️ Building my knowledge of **Cloud Computing and AWS**
-* 🐳 Learning **Docker and containerization**
-* 🌱 Continuously improving my **GitHub portfolio with meaningful projects**
+I am a **Computer Science graduate from Asian University for Women** currently focused on becoming a **Full-Stack Web Developer**.
+
+I enjoy building modern web applications by combining clean frontend experiences with reliable backend systems. My current focus is developing practical skills in frontend development, backend architecture, databases, APIs, and cloud deployment.
+
+I believe in learning by building. I continuously work on projects that improve my problem-solving skills and help me understand real-world software development practices.
+
+Alongside software development, I have a research background in **Artificial Intelligence and Deep Learning**, particularly in medical image analysis. This experience helps me approach technical problems with an analytical mindset.
+
 
 ---
 
-## 🛠️ Tech Stack
+# 🔭 Currently Working On
 
-### 💻 Languages
+- 🌐 Full-Stack Web Development
+- ⚛️ Frontend Development
+- 🛠 Backend Development and REST APIs
+- 🗄 Database Design and Management
+- ☁️ Cloud Deployment
+- 🚀 Building real-world applications
+- 📚 Improving software engineering practices
+
+
+---
+
+# 🛠️ Tech Stack
+
+
+## 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,sql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
 
-### 🤖 AI, Machine Learning & Data
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Responsive Web Design
+- UI Development
+
+
+## ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 </p>
 
-`Machine Learning` • `Deep Learning` • `Transfer Learning` • `Computer Vision` • `Data Analysis` • `Attention Mechanisms` • `CBAM` • `Grad-CAM`
+- REST APIs
+- Backend Architecture
+- Server-side Development
+- API Integration
 
-### 🌐 Development
+
+## 🗄 Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,bootstrap,html,css" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
-### ☁️ Cloud & Tools
+- SQL Database Design
+- Data Management
+- Database Integration
+
+
+## ☁️ Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode" />
 </p>
 
----
+- Git & GitHub
+- Docker
+- AWS
+- Linux
+- VS Code
 
-## 🔬 Research Interests
-
-```text
-🧠 Artificial Intelligence
-🤖 Machine Learning
-🔬 Deep Learning
-👁️ Computer Vision
-🏥 Medical Image Analysis
-☁️ Cloud Computing
-📊 Data Science & Analytics
-🌱 Sustainable AI
-```
 
 ---
 
-## 📌 Featured Work
+# 🚀 Featured Projects
 
-### 🩺 Cancer Detection Using Deep Learning
+## 🌐 Full-Stack Web Applications
 
-Research focused on detecting **colorectal and breast cancer from histopathological images** using deep learning techniques.
+I am building and experimenting with full-stack applications while improving my skills across:
 
-**Exploring:**
+- Frontend development
+- Backend systems
+- Database management
+- API development
+- Deployment workflows
 
-* Transfer Learning
-* Attention Mechanisms
-* CBAM
-* Xception Architecture
-* Multi-Magnification Analysis
-* Grad-CAM for Model Interpretability
 
----
+**Technologies:**
 
-### 🌱 Sustainable NLP
+JavaScript • React • Node.js • Express.js • SQL • MongoDB
 
-Research exploring **climate accountability and sustainability considerations in Large Language Model development**.
-
-📄 **Paper:** *Sustainable NLP: A Review on Integrating Climate Accountability into Large Language Model Development*
 
 ---
 
-### 💻 More Projects Coming Soon...
+# 🔬 Research Background
 
-I'm continuously working on adding my academic, AI, machine learning, and software projects to GitHub. Stay tuned! 🚀
+Before focusing on software development, I worked on Artificial Intelligence and Deep Learning research projects.
 
----
+## 🩺 Medical Image Analysis & Cancer Detection
 
-## 📚 Currently Learning
+My undergraduate thesis focused on detecting **colorectal and breast cancer from histopathological images using deep learning**.
 
-* [x] Python
-* [x] C Programming
-* [x] SQL
-* [x] Machine Learning Fundamentals
-* [x] Deep Learning Fundamentals
-* [x] AWS Cloud Foundations
-* [ ] Docker & Containerization
-* [ ] Advanced Deep Learning
-* [ ] MLOps
-* [ ] Advanced Computer Vision
+Research areas:
 
----
+- Deep Learning
+- Computer Vision
+- Transfer Learning
+- Xception Architecture
+- Attention Mechanisms
+- CBAM
+- Grad-CAM
 
-## 📊 GitHub Statistics
 
-<div align="center">
+## 🌱 Sustainable NLP Research
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
+**Sustainable NLP: A Review on Integrating Climate Accountability into Large Language Model Development**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+Research focus:
 
-</div>
+- Natural Language Processing
+- Sustainable AI
+- Responsible AI Development
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
-
-</div>
 
 ---
 
-## 🏆 Highlights
+# 🎓 Education & Achievements
 
-🎓 **B.Sc. in Computer Science**
-🏫 **Asian University for Women**
+🎓 **B.Sc. in Computer Science**  
+Asian University for Women
 
 🏆 **Hult Prize 2025 — Second Runners Up**
 
@@ -157,42 +173,65 @@ I'm continuously working on adding my academic, AI, machine learning, and softwa
 
 ☁️ **AWS Academy Graduate — Cloud Web Application Builder**
 
-🤝 Experience as a **Teaching Assistant** in programming and computer science courses
+👩‍🏫 **Teaching Assistant — Computer Science Courses**
 
-🔬 Experience in **AI, Deep Learning, and Medical Image Analysis Research**
 
 ---
 
-## 🌐 Let's Connect
+# 📊 GitHub Statistics
 
-<p align="left">
+<div align="center">
 
-<a href="www.linkedin.com/in/shanjida-nahar-sumona">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shanjida-Nahar&show_icons=true&hide_border=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanjida-Nahar&layout=compact&hide_border=true&theme=github_dark"/>
+
+</div>
+
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanjida-Nahar&hide_border=true&theme=github-dark"/>
+
+</div>
+
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Shanjida-Nahar/Shanjida-Nahar/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shanjida-nahar-sumona">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:shanjida212185@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="mailto:shanjida2121@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="mailto:shanjida.n.sumona@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+</div>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
 
-*"Always learning, always building, and always curious about what technology can solve next."*
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=flat" alt="Profile Views" />
+**Building • Learning • Creating • Growing**
 
 </div>
