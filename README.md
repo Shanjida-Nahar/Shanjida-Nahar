@@ -210,7 +210,7 @@ Asian University for Women
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shanjida-Nahar/Shanjida-Nahar/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Shanjida-Nahar/Shanjida-Nahar/gh-pages/dist/github-contribution-grid-snake.svg"/>
 
 </div>
 
