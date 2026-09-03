@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="github-banner.png" width="100%" />
+
+</div>
+
+<div align="center">
+
 # Hi 👋, I'm Shanjida Nahar Sumona
 
 ### Full-Stack Developer | Computer Science Graduate | Software Engineer
